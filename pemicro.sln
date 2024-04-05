@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pemicro", "pemicro.csproj", "{79DCC273-1111-4C4E-AAEA-4DF7CF13BB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DCC273-1111-4C4E-AAEA-4DF7CF13BB8E}.Debug|x64.ActiveCfg = Debug|x64
+		{79DCC273-1111-4C4E-AAEA-4DF7CF13BB8E}.Debug|x64.Build.0 = Debug|x64
+		{79DCC273-1111-4C4E-AAEA-4DF7CF13BB8E}.Release|x64.ActiveCfg = Release|x64
+		{79DCC273-1111-4C4E-AAEA-4DF7CF13BB8E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797A9978-04B7-43C5-8967-E9396FFE4902}
+	EndGlobalSection
+EndGlobal
